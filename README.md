@@ -22,6 +22,7 @@
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/AleDouglas)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/AleDouglas)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/AleDouglas)
+[![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](http://github.com/AleDouglas)
 
 
 ### Libs
