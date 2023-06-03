@@ -4,6 +4,10 @@ Eu sou Alexandre Douglas.
 
 Atualmente estudante de Ciência da Computação pela Universidade Federal de Sergipe.
 
+Meus interesses consistem bastante em Redes e em Densevolvimento.
+
+Inclusive, minha primeira experiência profissional consiste em monitoramento e gestão de Redes :) 
+
 Para saber um pouco mais, basta acessar meu site pessoal: [AleDouglas](https://www.AleDouglas.com.br)
 
 
