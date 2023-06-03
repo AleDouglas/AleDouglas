@@ -4,8 +4,8 @@
     <b>Bem-vindos a minha página!</b><br><br>
     <i>
         Eu sou Alexandre.<br>
-        Sou estudante de **Ciência da Computação** pela **Universidade Federal de Sergipe ( UFS )**.<br>
-        Atualmente tenho bastante interesse na área de **redes**, já tendo trabalhado com dispositivos Cisco e Huawei, bem como a automatização desses dispositivos e monitoramento de redes.<br>
+        Sou estudante de <span color="blue">Ciência da Computação</span> pela <span color="red">Universidade Federal de Sergipe ( UFS )</span>.<br>
+        Atualmente tenho bastante interesse na área de redes, já tendo trabalhado com dispositivos Cisco e Huawei, bem como a automatização desses dispositivos e monitoramento de redes.<br>
         Estou aberto para colaborações e projetos inovadores :D<br>
     </i><br>
     <a href="https://www.linkedin.com/in/alexandre-douglas-529670213/">
@@ -37,7 +37,7 @@
 [![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)](https://github.com/AleDouglas)
 [![Huawei](https://img.shields.io/badge/Huawei-%23FF0000.svg?style=for-the-badge&logo=huawei&logoColor=white)](https://github.com/AleDouglas)
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)](https://github.com/AleDouglas)
-[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/AleDouglas)
+[![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://github.com/AleDouglas)
 [![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://github.com/AleDouglas)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/AleDouglas)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/AleDouglas)
